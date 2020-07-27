@@ -1,5 +1,5 @@
 # Battery-Safe
-Python daemon to notify you when you should plug and unplug your computer. The need for this project was born out from my carelessness of letting my Macbook charge for hours, until my battery stopped holding charge, and I had to move out.
+Python daemon to notify you when you should plug and unplug your computer. The need for this project was born out from my carelessness of letting my previous Macbook charge for hours, until my battery stopped holding charge, and I had to move to a new machine. 
 
 ## Instructions
 ### Set up virtual environment
