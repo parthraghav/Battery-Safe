@@ -13,5 +13,5 @@ nohup python3 -u -m BatterySafe &
 `tail -f nohup.out`
 
 ### Kill the daemon
-ps ax | grep BatterySafe
-kill -9 <process_id>
+`ps ax | grep BatterySafe`
+`kill -9 <process_id>`
