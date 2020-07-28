@@ -6,8 +6,9 @@ Python daemon to notify you when you should plug and unplug your computer. The n
 
 ## Instructions
 ### Set up virtual environment
+    python3 -m venv venv
     source venv/bin/activate
-    pip install requirements.txt
+    pip install -r requirements.txt
 
 ### Start the daemon
     nohup python3 -u -m BatterySafe &
